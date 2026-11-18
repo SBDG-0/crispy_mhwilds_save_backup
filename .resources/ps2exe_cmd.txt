@@ -1,0 +1,1 @@
+Invoke-PS2EXE .\MHWilds_Save_Backup_GUI.ps1 .\"MHWilds Save Backup GUI".exe -title "Monster Hunter Wilds - Automated Save Backup" -noConsole -iconFile .\MHWilds.ico -version "0.3.7.1" -product "MHWilds Automated Save Backup GUI" -copyright "(CC0) SavageBulldogOG"

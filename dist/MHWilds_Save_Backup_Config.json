@@ -1,0 +1,17 @@
+﻿{
+    "StartMO2":  true,
+    "UseMO2Arguments":  false,
+    "StartGameViaSteam":  false,
+    "MO2ExePath":  "I:\\.other.games\\Mod.Organizer-2.5.2\\ModOrganizer.exe",
+    "MO2Arguments":  "\"moshortcut://:Monster Hunter: Wilds\"",
+    "SteamUserId":  "",
+    "GameId":  "2246340",
+    "SteamInstallDir":  "H:\\Program Files\\Steam",
+    "BackupDestinationPath":  "C:\\Users\\nerox\\Documents\\MH Wilds - Save Backups",
+    "BackupScope":  "remote",
+    "KeepNewestBackups":  25,
+    "GameProcessName":  "MonsterHunterWilds",
+    "RequireGameWasStarted":  true,
+    "CheckIntervalSeconds":  10,
+    "AutoCloseWhenFinished":  false
+}
