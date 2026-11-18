@@ -139,7 +139,9 @@ This is an unofficial community tool and is not affiliated with Capcom or Valve.
 
 ## License
 
-The recorded PS2EXE command contains the attribution `(CC0) SavageBulldogOG`. A standalone license file is not included in this checkout; this README introduces no additional license grant.
+This project's original code is dedicated to the public domain under **CC0 1.0 Universal**. See the [full legal text](LICENSE).
+
+You may use, modify and redistribute it, including commercially, without an attribution requirement. The author credit below is retained as a credit, not a condition of reuse. Third-party names, artwork and other rights remain with their respective owners.
 
 ---
 
